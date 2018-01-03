@@ -1,4 +1,67 @@
 <resources>
     <string name="app_name">MyCryptoBalance</string>
     <string name="action_settings">Settings</string>
+    <string name="amount">Amount</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string-array name="coins_array">
+        <item>Bitcoin</item>
+        <item>Ripple</item>
+        <item>Ethereum</item>
+        <item>Bitcoin Cash</item>
+        <item>Cardano</item>
+        <item>Stellar</item>
+        <item>Litecoin</item>
+        <item>NEM</item>
+        <item>IOTA</item>
+        <item>Dash</item>
+        <item>Monero</item>
+        <item>NEON</item>
+        <item>TRON</item>
+        <item>EOS</item>
+        <item>Bitcoin Gold</item>
+        <item>Qtum</item>
+        <item>RaiBlocks</item>
+        <item>Ethereum Classic</item>
+        <item>BitConnect</item>
+        <item>ICON</item>
+        <item>Lisk</item>
+        <item>BitShares</item>
+        <item>OmiseGo</item>
+        <item>Verge</item>
+        <item>Steem</item>
+        <item>Status</item>
+        <item>Ardor</item>
+        <item>Zcash</item>
+        <item>Populous</item>
+        <item>Stratis</item>
+        <item>Tether</item>
+        <item>Waves</item>
+        <item>Bytecoin</item>
+        <item>Komodo</item>
+        <item>Hshare</item>
+        <item>Dogecoin</item>
+        <item>Siacoin</item>
+        <item>Golem</item>
+        <item>Binance Coin</item>
+        <item>Augur</item>
+        <item>Veritaseum</item>
+        <item>VeChain</item>
+        <item>Ark</item>
+        <item>Decred</item>
+        <item>KuCoin Shares</item>
+        <item>DigiByte</item>
+        <item>SALT</item>
+        <item>PIVX</item>
+        <item>Dragonchain</item>
+        <item>Nxt</item>
+        <item>MonaCoin</item>
+        <item>Factom</item>
+        <item>Basic Attention Token</item>
+        <item>Aion</item>
+        <item>Byteball Bytes</item>
+        <item>Enigma</item>
+        <!-- First 56 coins at 03/01/2018 -->
+    </string-array>
+
 </resources>

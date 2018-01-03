@@ -18,6 +18,7 @@ import java.util.List;
 
 public class CoinsAdapter extends RecyclerView.Adapter<CoinsAdapter.MyViewHolder> {
 
+
     private List<Coin> coinsList;
 
     public class MyViewHolder extends RecyclerView.ViewHolder {
@@ -35,6 +36,15 @@ public class CoinsAdapter extends RecyclerView.Adapter<CoinsAdapter.MyViewHolder
     public CoinsAdapter(List<Coin> coinsList) {
         this.coinsList = coinsList;
     }
+
+    public List<Coin> getCoinsList() {
+        return coinsList;
+    }
+
+    public void setCoinsList(List<Coin> coinsList) {
+        this.coinsList = coinsList;
+    }
+
 
     @Override
     public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
